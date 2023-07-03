@@ -1,0 +1,16 @@
+Thirdparty filter=lfs diff=lfs merge=lfs -text
+build_ros.sh filter=lfs diff=lfs merge=lfs -text
+CMakeLists.txt filter=lfs diff=lfs merge=lfs -text
+Dependencies.md filter=lfs diff=lfs merge=lfs -text
+LICENSE.txt filter=lfs diff=lfs merge=lfs -text
+License-gpl.txt filter=lfs diff=lfs merge=lfs -text
+cmake_modules filter=lfs diff=lfs merge=lfs -text
+include filter=lfs diff=lfs merge=lfs -text
+Examples filter=lfs diff=lfs merge=lfs -text
+_gitignore filter=lfs diff=lfs merge=lfs -text
+read.txt filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+Vocabulary filter=lfs diff=lfs merge=lfs -text
+build.sh filter=lfs diff=lfs merge=lfs -text
+lib filter=lfs diff=lfs merge=lfs -text
+Vocabulary/ORBvoc.txt.tar.gz filter=lfs diff=lfs merge=lfs -text
